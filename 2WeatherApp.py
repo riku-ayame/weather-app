@@ -46,10 +46,3 @@ col2.metric("❄️ 期間中の最低気温", f"{min_temp} ℃")
 
 # 6. Streamlit専用のグラフ描画
 st.line_chart(df)
-
-
-
-
-
-
-
