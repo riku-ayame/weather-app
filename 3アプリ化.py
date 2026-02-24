@@ -11,7 +11,7 @@
 # GitHubやインターネット上のサーバーは「このアプリを動かすために、どのライブラリが必要なのか」
 # を知りません。
 #その「必要な部品リスト」をまとめた設計図を作ります。
-#requirements.txtを作成する
+#requirements.txtを作成する（名前はrequirements.txtでないといけない）
 
 #GitHubに保存
 
